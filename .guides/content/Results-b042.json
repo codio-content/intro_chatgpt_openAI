@@ -1,0 +1,18 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"id": "b04264d9-382a-c998-d958-81d81ee5b116",
+	"layout": "1-panel",
+	"learningObjectives": "",
+	"path": [],
+	"teacherOnly": false,
+	"title": "Results",
+	"type": "page"
+}

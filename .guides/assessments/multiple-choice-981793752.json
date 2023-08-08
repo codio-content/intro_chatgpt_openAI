@@ -1,0 +1,50 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-981793752",
+	"source": {
+		"name": "ChatGPT",
+		"showName": true,
+		"instructions": "**True or False:**\nChatGPT can remember what a user said earlier in a conversation.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "03d0cc2c-51d1-9ce2-1c12-bddd70cdfcaa",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "ba6da47b-06e7-457b-fb0e-7f51e80a6397",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "One of the key features of ChatGPT is its ability to remember what a user said earlier in a conversation. It also allows users to provide follow-up corrections.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": [
+				{
+					"type": "preview",
+					"content": "https://chat.openai.com/"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

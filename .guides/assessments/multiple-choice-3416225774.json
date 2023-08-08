@@ -1,0 +1,45 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3416225774",
+	"source": {
+		"name": "ChatGPT",
+		"showName": false,
+		"instructions": "Can ChatGPT occasionally produce harmful instructions or biased content?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "7107e604-1681-9fda-9c36-92b9bd2ca903",
+				"correct": true,
+				"answer": "True"
+			},
+			{
+				"_id": "ed7e4f2b-e765-9cbb-617a-3301e3404147",
+				"correct": false,
+				"answer": "False"
+			}
+		],
+		"guidance": "Due to its training data, ChatGPT may occasionally produce harmful instructions or display biased behavior. It is important to use moderation tools or guidelines when using the model to mitigate these risks.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

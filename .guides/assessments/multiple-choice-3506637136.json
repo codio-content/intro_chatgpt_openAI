@@ -1,0 +1,50 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3506637136",
+	"source": {
+		"name": "OpenAI models",
+		"showName": false,
+		"instructions": "Which model is considered the fastest among the three mentioned?",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "5af65edd-508c-3f32-f9f5-3fd9780af805",
+				"correct": true,
+				"answer": "GPT-3.5 (default)"
+			},
+			{
+				"_id": "fabecc0c-57e0-91b6-fee7-4c3037f4e11f",
+				"correct": false,
+				"answer": "GPT-3.5 (Legacy)"
+			},
+			{
+				"_id": "3a8e69b4-7320-2cc8-d940-bd77d20ed084",
+				"correct": false,
+				"answer": "GPT-4"
+			}
+		],
+		"guidance": "the GPT-3.5 (default) model is the fastest among the three models. It is important for applications that require real-time or near-real-time responses, such as chatbots or voice assistants.\n\n",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

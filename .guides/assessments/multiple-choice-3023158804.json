@@ -1,0 +1,45 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-3023158804",
+	"source": {
+		"name": "Architecture used for natural language",
+		"showName": false,
+		"instructions": "**True or False:**\nThe GPT architecture is the only architecture used for natural language processing, and no other models or architectures exist in the field.",
+		"multipleResponse": false,
+		"isRandomized": false,
+		"answers": [
+			{
+				"_id": "a74dbee1-12b3-dee7-cc36-4f6212ddb6aa",
+				"correct": false,
+				"answer": "True"
+			},
+			{
+				"_id": "db7590e1-2a77-1c11-eb67-d85fa78412b0",
+				"correct": true,
+				"answer": "False"
+			}
+		],
+		"guidance": "Tin addition to the GPT models, there are several other related architectures and models that have been developed in recent years, such as BERT, XLNet, and T5. Each of these models has its own unique strengths and weaknesses, and they are often used in combination with each other to achieve the best possible results in natural language processing tasks.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 2
+		},
+		"maxAttemptsCount": 0,
+		"showExpectedAnswer": true,
+		"points": 20,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}
